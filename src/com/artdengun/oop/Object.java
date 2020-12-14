@@ -7,7 +7,7 @@ public class Object
         var object1 = new Object();
         Object object2 = new Object();
 
-        Object object3
+        Object object3;
         object3 = new Object();
 
         System.out.println(object1);

@@ -1,8 +1,8 @@
 package com.artdengun.oop.Field;
 
-class FeldManipulation {
+class FieldManipulation {
     String name;
-    Strig age;
+    String age;
     final String country = "Indonesia";
 
     public static void main(String[] args) {
